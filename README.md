@@ -1,3 +1,3 @@
 # ControlChart
 
-# The work is currently under publication consideration. Information will be provided upon publication.
+The work is currently under publication consideration. Information will be provided upon publication.
